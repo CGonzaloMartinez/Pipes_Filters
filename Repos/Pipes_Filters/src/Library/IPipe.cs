@@ -8,7 +8,7 @@ namespace CompAndDel
     /// Una caneria a traves de la cual pasa una imagen.
     /// </summary>
     public interface IPipe
-    {        
+    {
         /// <summary>
         /// Envia la imagen a traves de la caneria.
         /// </summary>
